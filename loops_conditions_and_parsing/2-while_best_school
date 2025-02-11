@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Pirnt best school using while 
+n=1 
+while [$n -le 10]
+do
+  echo "Best Schol"
+  ((n++))
+done 
