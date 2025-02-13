@@ -1,4 +1,4 @@
-#/usr/bi/env bash
+#!/usr/bi/env bash
 # a script that display my own PID
 
 echo "My own PID $$"
